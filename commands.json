@@ -22,6 +22,9 @@
     "flag G4",
     "flag D1",
     "clear C1",
-    "clear D2"
+    "clear D2",
+    "unflag G4",
+    "flag H4",
+    "clear E3"
   ]
 }
