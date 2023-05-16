@@ -25,6 +25,8 @@
     "clear D2",
     "unflag G4",
     "flag H4",
-    "clear E3"
+    "clear E3",
+    "clear F4",
+    "clear G4"
   ]
 }
