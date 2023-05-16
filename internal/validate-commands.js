@@ -1,10 +1,10 @@
 const fs = require('fs');
-const handleError = require('./handle-error').default;
+const handleError = require('./handle-error');
 
 const VALID_COMMANDS = {
-  CLEAR: 'CLEAR',
-  FLAG: 'FLAG',
-  UNFLAG: 'UNFLAG',
+  CLEAR: 'CLEAR', 
+  FLAG: 'FLAG', 
+  UNFLAG: 'UNFLAG', 
   END: 'END'
 };
 const NUM_ROWS = 8;
